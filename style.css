@@ -6,14 +6,12 @@
     font-size: 100px;
     font-weight: bold;
     color: khaki;
-    text-align: center;
     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
 }
 .h2style {
     font-size: 32px;
     font-weight: bold;
     color: white;
-    text-align: center;
 }
 .sec1{
     background-color: mediumspringgreen;
